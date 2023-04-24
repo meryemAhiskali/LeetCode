@@ -1,3 +1,3 @@
 # LeetCode-75
 
-Solutions of LeetCOde-75
+Solutions of LeetCode-75
